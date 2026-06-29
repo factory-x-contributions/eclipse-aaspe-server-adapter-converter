@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** It will receive no further development or maintenance. Interested parties are invited to fork the repository and continue the work independently.
+
 ## ⚠️ Important Notice: Breaking Changes in `main`
 
 The `main` branch contains **breaking changes** compared to previous versions of the system.
